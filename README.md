@@ -1,6 +1,6 @@
 # AWS_CodeDeploy_Example
 <br />
-Please make sure that you add the following files to your project for this to work
+Please make sure you add the following files to your project for this to work
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp; appspec.yml
 <br />
